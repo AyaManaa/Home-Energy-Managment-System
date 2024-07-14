@@ -1,0 +1,2 @@
+# Home Energy Managment System
+ In this project we are aiming to using technologyie like SDN and AI to help manages the electricity conusmption for the consumer. Where we take readings from the user main electric cable and save it on MongoDB, then the ML prdicts the hourly power consumption for the agent to decide when to turn ON/OFF electronic devices entred by the conumer. With using custom environment that makes the agent cabale of giving multuple decision for the current hour with a reward function that utilizes Time of Use strategy to help the agent take actions
